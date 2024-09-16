@@ -11,7 +11,6 @@ The *Symptom Checker* is a web application that allows users to input their symp
 ## Technologies Used
 - *Frontend*: React, Vite
 - *Backend*: Node.js, Express
-- *Database*: (If applicable, specify here)
 - *APIs*: Integrated APIs to fetch disease data
 
 ## Installation
